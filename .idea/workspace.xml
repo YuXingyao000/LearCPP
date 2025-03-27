@@ -32,8 +32,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90d12eec-a787-4c6c-b4e5-6b0ace768402" name="Changes" comment="&quot;Refactored CMakeLists structures&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743040799289</updated>
-      <workItem from="1743040800434" duration="3793000" />
+      <workItem from="1743040800434" duration="3856000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Refactored CMakeLists structures&quot;">
       <option name="closed" value="true" />
