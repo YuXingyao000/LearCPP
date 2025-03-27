@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="CLionExternalBuildManager">
-    <target id="dc192330-dd2a-40a0-839f-29d98d9cb894" name="LearnCPP" defaultType="TOOL">
-      <configuration id="6df750e1-bf01-436c-9f13-1743ae6f6cde" name="LearnCPP" toolchainName="Visual Studio" />
-    </target>
-  </component>
-</project>
