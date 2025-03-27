@@ -1,4 +1,30 @@
-/cmake-build-debug
+# Ignore build directories
+/build/
+/cmake-build-*/
 
-.idea
-.clang-format
+# Ignore CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# Ignore CLion project files
+.idea/
+*.iml
+
+# Ignore compiled binaries and object files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.exe
+*.out
+
+# Ignore log files
+*.log
