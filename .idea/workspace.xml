@@ -22,7 +22,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="LearnCPP" targetName="Chapter9" />
+      <config projectName="LearnCPP" targetName="Queue" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -31,17 +31,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90d12eec-a787-4c6c-b4e5-6b0ace768402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/customTargets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+    <list default="true" id="90d12eec-a787-4c6c-b4e5-6b0ace768402" name="Changes" comment="&quot;Refactored CMakeLists structures&quot;">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/Queue.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,8 +130,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743040799289</updated>
-      <workItem from="1743040800434" duration="3262000" />
+      <workItem from="1743040800434" duration="3793000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Refactored CMakeLists structures&quot;">
+      <option name="closed" value="true" />
+      <created>1743044490972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743044490972</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Refactored CMakeLists structures&quot;">
+      <option name="closed" value="true" />
+      <created>1743044497138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743044497138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,5 +169,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Refactored CMakeLists structures&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Refactored CMakeLists structures&quot;" />
   </component>
 </project>
